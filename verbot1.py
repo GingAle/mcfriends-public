@@ -84,6 +84,6 @@ def cont():
               await message.channel.send (verinvalid)
 
               
-    bot.run('ODM3Nzk4MjA4NTIzNTk5OTE0.YIxyYg.TTlqR18Ss4G7f8ke8hG-CCuyuCk')
+    bot.run('') #insert token here
 
 cont()
